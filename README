@@ -1,3 +1,9 @@
 # Thread Pool
 
-##
+/*
+Write a 'ThreadPool' class that takes the
+number of worker threads to spawn in the
+constructor,
+and provides an 'enqueue()' function to
+enqueue tasks to be completed by the threads.
+*/
